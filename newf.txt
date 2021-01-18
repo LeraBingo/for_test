@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add line 3
+=======
+add line 2
+>>>>>>> newb
