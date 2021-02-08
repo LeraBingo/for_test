@@ -8,3 +8,4 @@ add line 5
 add line 6
 add line 7 from new b
 add line 8 from new b2
+add line 9 (newb3)
