@@ -6,3 +6,6 @@
 +5
 +6
 +7
+stash
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
